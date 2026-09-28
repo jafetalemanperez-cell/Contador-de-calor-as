@@ -1,9 +1,0 @@
-{
-  "name": "Contador de Calorías",
-  "short_name": "Calorías",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f4f5f6",
-  "theme_color": "#252c33",
-  "lang": "es-MX"
-}

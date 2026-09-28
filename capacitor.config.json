@@ -1,0 +1,6 @@
+{
+  "appId": "com.jafet.contadordecalorias",
+  "appName": "Contador de Calorías",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

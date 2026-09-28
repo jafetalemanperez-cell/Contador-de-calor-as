@@ -1,0 +1,17 @@
+{
+  "name": "contador-calorias",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Contador de calorías y calculador de objetivo diario",
+  "scripts": {
+    "android:sync": "npx cap sync android",
+    "android:open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/core": "7.4.3",
+    "@capacitor/android": "7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "7.4.3"
+  }
+}
